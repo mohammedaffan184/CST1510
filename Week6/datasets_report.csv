@@ -1,0 +1,7 @@
+dataset,rows_loaded,rows_expected,percent,status
+survey_2026,1187,1200,98.91666666666666,WARNING
+test_set,50,100,50.0,OK
+big_set,120,100,120.0,OVER LIMIT
+sample_a,95,100,95.0,WARNING
+train_set,980,1000,98.0,WARNING
+val_set,400,500,80.0,OK
